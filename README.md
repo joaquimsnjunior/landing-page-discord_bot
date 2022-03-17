@@ -20,7 +20,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ```
 
-## 🤝 Colaboradores
+## 🤝 Colaboradorea`
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
