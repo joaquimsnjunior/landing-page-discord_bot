@@ -19,5 +19,3 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Possui um editor de codigo.
 
 ```
-
-[⬆ Voltar ao topo](#DiscordBot)<br>
